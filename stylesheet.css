@@ -371,9 +371,3 @@ svg {
 svg:hover {
     width: 50px;
 }
-
-@media(max-width:800px) {
-    body {
-        background-color: rgba(0, 128, 0, 0.252);
-    }
-}
